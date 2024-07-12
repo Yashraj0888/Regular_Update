@@ -1,5 +1,5 @@
 
 window.onload = function() {
-    window.location.href = "https://coruscating-pavlova-ab062c.netlify.app/";
+    window.location.href = "https://lets-chat-ccgr.onrender.com/";
 }
 
